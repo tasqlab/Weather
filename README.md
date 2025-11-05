@@ -9,4 +9,3 @@ Will give details such as temprature, humidity and feels like
 
 
 Made as a small project to learn python APIs  
-Inspired by Hackitech `github.com/existingperson1321`
